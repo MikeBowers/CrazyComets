@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1488684176,
+	"version": 1488688216,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -122,7 +122,8 @@
 		"images/block3gold-sheet0.png",
 		"images/block3silver-sheet0.png",
 		"images/block3bronze-sheet0.png",
-		"media/theme for harold var 3.ogg",
+		"images/sprite11-sheet0.png",
+		"images/sprite12-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
